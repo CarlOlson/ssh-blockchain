@@ -1,12 +1,8 @@
 import json
 from subprocess import Popen, PIPE
-
 import sys
-
 import thread
-
 import signal
-
 import hashlib
 
 
